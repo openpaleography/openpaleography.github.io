@@ -1,2 +1,4 @@
-# openpaleography.github.io
-Web site for Open Paleography group
+# Open Paleography web site #
+
+Source for jekyll web site at <http://openpaleography.github.io>.
+
