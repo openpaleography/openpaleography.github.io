@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Open Paleography
-tagline:          'Openly licensed resources for the study of manuscripts'
-description:      'Information about manuscripts illustrated by openly licensed images'
+tagline:          'Paleographic data from on-line images'
+description:      ''
 
 baseurl: 'http://openpaleography.github.io'
 
@@ -24,12 +24,9 @@ version:          0.12.0
 
 
 links:
-  - title: Sources for images
-    url: http://openmss.github.io/img_sources
+  - title: Open Manuscripts initiative
+    url: http://openmss.github.io
     external: true
-  - title: Digital manuscripts
-    url: http://openmss.github.io/mss
-    external: true
-  - title: Github source
+  - title: Github repository for this web site
     url: https://github.com/openpaleography/openpaleography.github.io
     external: true
