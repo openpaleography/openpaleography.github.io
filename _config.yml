@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Open Paleography
-tagline:          'Openly licensed data sets and tools for paleography'
-description:      'Openly licensed data sets and tools for paleography'
+tagline:          'Openly licensed resources for the study of manuscripts'
+description:      'Information about manuscripts illustrated by openly licensed images'
 
 baseurl: 'http://openpaleography.github.io'
 
