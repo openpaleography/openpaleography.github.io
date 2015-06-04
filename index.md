@@ -1,21 +1,12 @@
 ---
 layout: page
-title: Open Resources for the Study of Manuscripts
+title: Open Paleography
 ---
 
-The Open Paleography project is using [the CITE architecture](http://cite-architecture.github.io/) to organize collaboratively assembled information about manuscripts.  
-
-Material we are collecting includes:
-
-
-
-1. Sources for [openly licensed images](http://openpaleography.github.io/img_sources/) of manuscripts
-2. [Documentation about manuscripts](http://openpaleography.github.io/mss/) illustrated by openly licensed images
-3. [Cataloging contents of manuscripts](http://openpaleography.github.io/msscatalog) illustrated by openly licensed images
-4. Structured paleogaphic obversations linked to canonically cited images
-
+The Open Paleography project is creating a database of structured paleographic observations.  Every observation is backed by a canonically cited source for visual data.  Our use of the CITE architecture to identify material allows our paleographic study to be integrated into other research on the same manuscripts or texts, such as those of the [Open Manuscripts inititiave](http://openmss.github.io).
 
 By relating paleographic observations to basic catalog information about manuscripts and documentary visual information, the Open Paleography collections can create a new kind of resource for the study and reading of documents from digital facsimiles.
+
 
 
 
